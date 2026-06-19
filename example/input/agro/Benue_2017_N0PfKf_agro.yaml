@@ -1,0 +1,44 @@
+AgroManagement:
+- 2017-06-15:
+    CropCalendar:
+      crop_name: cassava
+      variety_name: TME
+      crop_start_date: 2017-06-15
+      crop_start_type: sowing
+      crop_end_date: 2018-06-14
+      crop_end_type: harvest
+      max_duration: 364
+    TimedEvents:
+    - event_signal: apply_npk
+      name: Timed NPK application table
+      comment: All fertilizer N, P, and K amounts in g/m2
+      events_table:
+      - 2017-06-15:
+          N_amount: 0
+          N_recovery: 0.75
+          P_amount: 100
+          P_recovery: 0.28
+          K_amount: 0
+          K_recovery: 0.7
+      - 2017-07-19:
+          N_amount: 0
+          N_recovery: 0.75
+          P_amount: 0
+          P_recovery: 0.28
+          K_amount: 100
+          K_recovery: 0.7
+      - 2017-08-25:
+          N_amount: 0
+          N_recovery: 0.75
+          P_amount: 0
+          P_recovery: 0.28
+          K_amount: 100
+          K_recovery: 0.7
+      - 2017-10-09:
+          N_amount: 0
+          N_recovery: 0.75
+          P_amount: 0
+          P_recovery: 0.28
+          K_amount: 100
+          K_recovery: 0.7
+    StateEvents: null
