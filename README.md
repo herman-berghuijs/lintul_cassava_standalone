@@ -18,7 +18,25 @@ Python can be run within PyCharm, an Integrated Development Environment (IDE) fo
 This user manual assumes that LINTUL Cassava NPK is run within PyCharm. In order to run LINTUL Cassava NPK, follow these steps:
 - Downlad the LINTUL Cassava NPK repository in a directory of your choice.
 - Open PyCharm
-- 
+- Click on the hamburger button (three lined equal sign in the left top corner)
+- Click on File -> Open
+- Browse to the  directory where the contents LINTUL Cassava NPK repository was stored.
+- Click on "Select folder"
+
+This will open all code in the repository. In order to run LINTUL Cassava NPK for the first time, a virtual environment needs to be installed. For this purpose, follow these steps:
+- Click on the hamburger button.
+- Click on Settings
+- Click on Python -> Interpreter
+- Click on Add Interpreter -> Add Local Interpreter...
+- Either click on OK. Or, if you want to choose an alternative interpreter, pick another one and click "OK".
+- Open a terminal by either clicking on the Terminal button in the bottom left corner of your screen or press Alt + F12
+- Type "pip install -r requirements.txt" (without the quotes) and press Enter. 
+
+The last step will install all packages that are required to run LINTUL Cassava NPK. The names of these packages are listed in .../requirements.txt.
+
+In order to run the example Python script, double click on .../example/example.py in the file structure tree and click the run button (green triangle in the top bar)
+
+In order to run the notebook, double click .../example/example.ipynb in the file structure tree. Double click on the double green triangle in the bar above the notebook content.
 
 # References
 Adiele, J. G., Schut, A. G. T., Ezui, K. S., & Giller, K. E. (2022) LINTUL-Cassava-NPK: A simulation model for nutrient-limited cassava growth. Field Crops Research, 281, Article 108488. https://doi.org/10.1016/j.fcr.2022.108488
