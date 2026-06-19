@@ -48,3 +48,8 @@ https://doi.org/10.1007/s13593-020-00649-w
 Ezui K.S., Leffelaar P.A., Franke A.C., Mando A., Giller K.E. (2018) Simulating drought impact
 and mitigation in cassava using the LINTUL model. Field Crops Research 219: 256-272.
 https://doi.org/10.1016/j.fcr.2018.01.033
+
+## Contact persons
+Herman Berghuijs (herman.berghuijs@wur.nl)
+
+Tom Schut (tom.schut@wur.nl)
