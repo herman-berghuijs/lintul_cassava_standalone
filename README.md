@@ -41,9 +41,7 @@ In order to run the notebook, double click .../example/example.ipynb in the file
 ## References
 Adiele, J. G., Schut, A. G. T., Ezui, K. S., & Giller, K. E. (2022) LINTUL-Cassava-NPK: A simulation model for nutrient-limited cassava growth. Field Crops Research, 281, Article 108488. https://doi.org/10.1016/j.fcr.2022.108488
 
-Adiele J.G., Schut A.G.T., Ezui K.S., Giller K.E. (2022) LINTUL-Cassava-NPK: A simulation
-model for nutrient-limited cassava growth. Field Crops Research 281: ARTN 108488.
-https://doi.org/10.1007/s13593-020-00649-w
+Adiele, J. G., Schut, A. G. T., van den Beuken, R. P. M., Ezui, K. S., Pypers, P., Ano, A. O., Egesi, C. N., & Giller, K. E. (2020). Towards closing cassava yield gap in West Africa: Agronomic efficiency and storage root yield responses to NPK fertilizers. Field Crops Research, 253, Article 107820. https://doi.org/10.1016/j.fcr.2020.107820
 
 Ezui K.S., Leffelaar P.A., Franke A.C., Mando A., Giller K.E. (2018) Simulating drought impact
 and mitigation in cassava using the LINTUL model. Field Crops Research 219: 256-272.
